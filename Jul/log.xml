@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-13T12:11:48.238712100Z</date>
+  <millis>1605269508238</millis>
+  <nanos>712100</nanos>
+  <sequence>0</sequence>
+  <logger>jul</logger>
+  <level>INFO</level>
+  <class>jul.Jul</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>L'utilisateur qui s'est connecté est Nicolas Papon</message>
+</record>
+<record>
+  <date>2020-11-13T12:11:48.416482600Z</date>
+  <millis>1605269508416</millis>
+  <nanos>482600</nanos>
+  <sequence>1</sequence>
+  <logger>jul</logger>
+  <level>INFO</level>
+  <class>jul.Jul</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>L'utilisateur qui s'est connecté est Nicolas Papon</message>
+</record>
+<record>
+  <date>2020-11-13T12:11:48.423398900Z</date>
+  <millis>1605269508423</millis>
+  <nanos>398900</nanos>
+  <sequence>2</sequence>
+  <logger>jul</logger>
+  <level>INFO</level>
+  <class>jul.Jul</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Operation menée 4/0</message>
+</record>
+<record>
+  <date>2020-11-13T12:11:48.432373900Z</date>
+  <millis>1605269508432</millis>
+  <nanos>373900</nanos>
+  <sequence>3</sequence>
+  <logger>jul</logger>
+  <level>SEVERE</level>
+  <class>jul.Jul</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>/ by zero</message>
+</record>
+<record>
+  <date>2020-11-13T12:11:48.436363300Z</date>
+  <millis>1605269508436</millis>
+  <nanos>363300</nanos>
+  <sequence>4</sequence>
+  <logger>jul</logger>
+  <level>SEVERE</level>
+  <class>jul.Jul</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Exception remontée/ by zero</message>
+</record>
+</log>
